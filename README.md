@@ -1,19 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## technical test - Source
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-
-
-
+I spent 3h15 on the test.
+I lost time on task 2, I wanted to add data in localStorage, get the data from there to be able to delete a movie but it didn't look clean so I delete and passed to task 3.
+I also wanted to cut the scss in different parts but had no time. And although I had coded in TypeScript with React, I am more accustomed with Js components so I prefered to create JS components.
